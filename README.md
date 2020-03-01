@@ -33,3 +33,11 @@ El Makefile tiene las siguientes opciones:
 Después de ejecutar el make se ejecuta en terminal con el comando:
 
 - $ ./lista
+
+## Licencia
+
+GPL v3.0
+
+## Autor
+
+Oliver Sierra
